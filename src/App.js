@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React with ahmad 
-          bilal uddin
+          bilal uddin wardag
         </a>
       </header>
     </div>
